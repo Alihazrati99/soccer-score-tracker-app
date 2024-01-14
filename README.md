@@ -25,3 +25,23 @@ To use the app, follow these steps:
 
 ```bash
 git clone https://github.com/your-username/soccer-score-tracker.git
+
+Open the project in Android Studio.
+
+Build and run the app on your Android device or emulator.
+
+Backend API
+The app communicates with a backend server through APIs to fetch live soccer scores and additional information
+
+Usage
+
+Home Screen:
+Select your preferred soccer league from the available options.
+
+Live Scores:
+View real-time scores, team names, and additional match information.
+
+Detailed Information:
+Access detailed information about specific matches, including match times and goal scorers.
+
+
