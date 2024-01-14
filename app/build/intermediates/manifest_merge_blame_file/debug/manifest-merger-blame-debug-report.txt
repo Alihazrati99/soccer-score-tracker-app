@@ -1,0 +1,153 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.app.sportscoretracker"
+4    android:versionCode="12"
+5    android:versionName="1.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:5:5-79
+11-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:6:5-67
+12-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:6:22-64
+13
+14    <application
+14-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:8:5-59:19
+15        android:name="com.app.sport.SportScoreTrackerApplication"
+15-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:9:9-66
+16        android:allowBackup="true"
+16-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:10:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.1.0-alpha02] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e0ccd322de6cd44b441d2b0156fffcd5\transformed\core-1.1.0-alpha02\AndroidManifest.xml:22:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:11:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:12:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:13:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:14:9-35
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme" >
+24-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:15:9-40
+25        <activity
+25-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:16:9-18:40
+26            android:name="com.app.sport.ui.competition_detail.favourite.FavouriteActivity"
+26-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:17:13-78
+27            android:exported="false" />
+27-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:18:13-37
+28        <activity
+28-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:19:9-32:20
+29            android:name="com.app.sport.SplashScreenActivity"
+29-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:20:13-49
+30            android:exported="true"
+30-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:21:13-36
+31            android:launchMode="singleTop" >
+31-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:22:13-43
+32            <meta-data
+32-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:23:13-25:36
+33                android:name="android.app.lib_name"
+33-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:24:17-52
+34                android:value="" />
+34-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:25:17-33
+35
+36            <intent-filter>
+36-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:27:13-31:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:28:17-69
+37-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:28:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:30:17-77
+39-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:30:27-74
+40            </intent-filter>
+41        </activity>
+42        <activity
+42-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:33:9-42:20
+43            android:name="com.app.sport.ui.team_detail.TeamDetailActivity"
+43-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:34:13-75
+44            android:label="@string/team"
+44-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:35:13-41
+45            android:launchMode="singleTop"
+45-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:36:13-43
+46            android:parentActivityName="com.app.sport.ui.competition_detail.CompetitionActivity"
+46-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:37:13-97
+47            android:theme="@style/AppTheme.NoActionBar" >
+47-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:38:13-56
+48            <meta-data
+48-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:39:13-41:91
+49                android:name="android.support.PARENT_ACTIVITY"
+49-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:40:17-63
+50                android:value="com.app.sport.ui.competition_detail.CompetitionActivity" />
+50-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:41:17-88
+51        </activity>
+52        <activity
+52-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:43:9-48:68
+53            android:name="com.app.sport.ui.competition_detail.CompetitionActivity"
+53-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:44:13-83
+54            android:exported="true"
+54-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:45:13-36
+55            android:label="@string/app_name"
+55-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:46:13-45
+56            android:launchMode="singleTop"
+56-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:47:13-43
+57            android:theme="@style/AppTheme.NoActionBar" />
+57-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:48:13-56
+58        <activity
+58-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:49:9-58:20
+59            android:name="com.app.sport.ui.match_detail.MatchDetailActivity"
+59-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:50:13-77
+60            android:label="@string/match"
+60-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:51:13-42
+61            android:launchMode="singleTop"
+61-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:52:13-43
+62            android:parentActivityName="com.app.sport.ui.competition_detail.CompetitionActivity"
+62-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:53:13-97
+63            android:theme="@style/AppTheme.NoActionBar" >
+63-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:54:13-56
+64            <meta-data
+64-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:39:13-41:91
+65                android:name="android.support.PARENT_ACTIVITY"
+65-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:40:17-63
+66                android:value="com.app.sport.ui.competition_detail.CompetitionActivity" />
+66-->C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:41:17-88
+67        </activity>
+68        <activity android:name="com.mikepenz.aboutlibraries.ui.LibsActivity" />
+68-->[com.mikepenz:aboutlibraries:6.2.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\900a71eb9b0fa3f565ddf5a2e360a4ba\transformed\jetified-aboutlibraries-6.2.0\AndroidManifest.xml:12:9-80
+68-->[com.mikepenz:aboutlibraries:6.2.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\900a71eb9b0fa3f565ddf5a2e360a4ba\transformed\jetified-aboutlibraries-6.2.0\AndroidManifest.xml:12:19-77
+69
+70        <service
+70-->[androidx.room:room-runtime:2.2.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\435a1c76712939edd003e3a27bf5d672\transformed\room-runtime-2.2.1\AndroidManifest.xml:25:9-27:40
+71            android:name="androidx.room.MultiInstanceInvalidationService"
+71-->[androidx.room:room-runtime:2.2.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\435a1c76712939edd003e3a27bf5d672\transformed\room-runtime-2.2.1\AndroidManifest.xml:26:13-74
+72            android:exported="false" />
+72-->[androidx.room:room-runtime:2.2.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\435a1c76712939edd003e3a27bf5d672\transformed\room-runtime-2.2.1\AndroidManifest.xml:27:13-37
+73
+74        <provider
+74-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9977748432b3e1c3204d4148348d2328\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+75            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+75-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9977748432b3e1c3204d4148348d2328\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
+76            android:authorities="com.app.sportscoretracker.lifecycle-process"
+76-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9977748432b3e1c3204d4148348d2328\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+77            android:exported="false"
+77-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9977748432b3e1c3204d4148348d2328\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+78            android:multiprocess="true" />
+78-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9977748432b3e1c3204d4148348d2328\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+79        <provider
+79-->[com.squareup.picasso:picasso:2.71828] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\a1848fa3a5c1a4ae90e876d7081c2bf2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+80            android:name="com.squareup.picasso.PicassoProvider"
+80-->[com.squareup.picasso:picasso:2.71828] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\a1848fa3a5c1a4ae90e876d7081c2bf2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+81            android:authorities="com.app.sportscoretracker.com.squareup.picasso"
+81-->[com.squareup.picasso:picasso:2.71828] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\a1848fa3a5c1a4ae90e876d7081c2bf2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+82            android:exported="false" />
+82-->[com.squareup.picasso:picasso:2.71828] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\a1848fa3a5c1a4ae90e876d7081c2bf2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+83    </application>
+84
+85</manifest>

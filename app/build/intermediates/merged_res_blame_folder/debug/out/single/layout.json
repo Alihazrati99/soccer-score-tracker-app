@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Ali Hazrati\\Desktop\\SportScoreTrackerApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_match_detail.xml",
+        "source": "C:\\Users\\Ali Hazrati\\Desktop\\SportScoreTrackerApp\\app\\src\\main\\res\\layout\\activity_match_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Hazrati\\Desktop\\SportScoreTrackerApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_team_detail.xml",
+        "source": "C:\\Users\\Ali Hazrati\\Desktop\\SportScoreTrackerApp\\app\\src\\main\\res\\layout\\activity_team_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Hazrati\\Desktop\\SportScoreTrackerApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_competition.xml",
+        "source": "C:\\Users\\Ali Hazrati\\Desktop\\SportScoreTrackerApp\\app\\src\\main\\res\\layout\\activity_competition.xml"
+    }
+]

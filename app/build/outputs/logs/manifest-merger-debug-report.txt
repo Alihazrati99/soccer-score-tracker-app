@@ -1,0 +1,329 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:2:1-61:12
+MERGED from [androidx.databinding:databinding-adapters:7.0.4] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\345a549c4c101f2e23edcc0451eb1537\transformed\databinding-adapters-7.0.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:7.0.4] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\ec551c5ca25e3a0519b2b29b043dc8c4\transformed\databinding-runtime-7.0.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e486ff3094d66790f64b7eb481f3c5c5\transformed\constraintlayout-2.0.0-alpha2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0-alpha02] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\dacd57114d42c95c4a2512b560f1f3d2\transformed\material-1.1.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [com.mikepenz:aboutlibraries:6.2.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\900a71eb9b0fa3f565ddf5a2e360a4ba\transformed\jetified-aboutlibraries-6.2.0\AndroidManifest.xml:2:1-15:12
+MERGED from [com.mikepenz:iconics-core:3.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\b7fe116befccc4313a1181ecf362de63\transformed\jetified-iconics-core-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.mikepenz:fastadapter:3.3.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\315fb2373e1382c0ffe973c7aa6e06a8\transformed\jetified-fastadapter-3.3.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\daf1f501b42855376f7c86dda66c8e68\transformed\appcompat-1.1.0-alpha01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\50b0fbbed4ff729ccecfdb1094627529\transformed\recyclerview-1.1.0-alpha01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\d9826e1edad72234a99f899939862bc6\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\435a1c76712939edd003e3a27bf5d672\transformed\room-runtime-2.2.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9a30dce3ca72f4d3413fd432a7b6d80c\transformed\lifecycle-extensions-2.1.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e8e726439966da57e6cd527cbb687eaa\transformed\fragment-1.1.0-alpha02\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e685e2edcc38cdf955ea991fa4933906\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\3cafa57b834b862c77bea28926d4f73e\transformed\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\667b76da0e17bfba3a6659261f812f56\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9eb61f6dd3ba18dee2ddc528eb997096\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\ce5020b59d855996fa79f7a986c83c32\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\77764d2be8bb9fe5e47563e5419262c3\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\6d39f8b32484a0b0c0b92aaeca9da413\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\301e0593b07215b1102edadc4446728b\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\b214d59130c81f1882c141765eeace72\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\cdd5e0e1ae2348000977650d57756607\transformed\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\a05d3c9caf2eaffe209ac6330bebc202\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\43744beb3c94df79c873e5b24381f7cd\transformed\jetified-activity-1.0.0-alpha02\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\55582f09a9a6b39d79903db95af4aeea\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\5632c9705c60e460a8305cb3428a0b6c\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha02] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e0ccd322de6cd44b441d2b0156fffcd5\transformed\core-1.1.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9977748432b3e1c3204d4148348d2328\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\b340cb349af4f3f263c708c57f56abbc\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\bd65e6c1d5bd4973604f98877467c100\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\a1848fa3a5c1a4ae90e876d7081c2bf2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.1.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\f4ed75bc4c6a25161dae94bf719461d3\transformed\jetified-threetenabp-1.1.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.agrawalsuneet.androidlibs:dotsloader:1.4] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\c35d6f694b81a82523a99565392eccea\transformed\jetified-dotsloader-1.4\AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\08ac089c608606ef2b8660bd2fc729fe\transformed\versionedparcelable-1.1.0-alpha01\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.databinding:viewbinding:7.0.4] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\d0ccdca315f43e2b28d37cc27f4449ce\transformed\jetified-viewbinding-7.0.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e2b5822b3f4a30279b4f670dddb95fbf\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\28f3da937009cbef33741648fb867e72\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\0521870e4becee07ea76493c1b1d854a\transformed\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\06f00347069e037876427d0f50bc18af\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\6a6e11b9b9712b6dc44191391f917dd8\transformed\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\4150a955ca784bb71c28261e89bbe502\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e13d1cd06afae079f06e3740240a66ef\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\4e1e582465c3195ca324de80c58b3e8c\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\47d9af738d25c980e430c43ae47fc614\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\26ec7dfde7fd7dc5c1bd021bec25dcc1\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\2f2c1504a876bb7f4a6533b373e175fa\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\55c377d2d09c2a1cad00cd1fef062128\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:8:5-59:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e486ff3094d66790f64b7eb481f3c5c5\transformed\constraintlayout-2.0.0-alpha2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e486ff3094d66790f64b7eb481f3c5c5\transformed\constraintlayout-2.0.0-alpha2\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha02] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\dacd57114d42c95c4a2512b560f1f3d2\transformed\material-1.1.0-alpha02\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha02] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\dacd57114d42c95c4a2512b560f1f3d2\transformed\material-1.1.0-alpha02\AndroidManifest.xml:22:5-20
+MERGED from [com.mikepenz:aboutlibraries:6.2.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\900a71eb9b0fa3f565ddf5a2e360a4ba\transformed\jetified-aboutlibraries-6.2.0\AndroidManifest.xml:11:5-13:19
+MERGED from [com.mikepenz:aboutlibraries:6.2.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\900a71eb9b0fa3f565ddf5a2e360a4ba\transformed\jetified-aboutlibraries-6.2.0\AndroidManifest.xml:11:5-13:19
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\435a1c76712939edd003e3a27bf5d672\transformed\room-runtime-2.2.1\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\435a1c76712939edd003e3a27bf5d672\transformed\room-runtime-2.2.1\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9a30dce3ca72f4d3413fd432a7b6d80c\transformed\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9a30dce3ca72f4d3413fd432a7b6d80c\transformed\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.1.0-alpha02] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e0ccd322de6cd44b441d2b0156fffcd5\transformed\core-1.1.0-alpha02\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha02] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e0ccd322de6cd44b441d2b0156fffcd5\transformed\core-1.1.0-alpha02\AndroidManifest.xml:22:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9977748432b3e1c3204d4148348d2328\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9977748432b3e1c3204d4148348d2328\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:22:5-28:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\a1848fa3a5c1a4ae90e876d7081c2bf2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\a1848fa3a5c1a4ae90e876d7081c2bf2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.1.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\f4ed75bc4c6a25161dae94bf719461d3\transformed\jetified-threetenabp-1.1.1\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.1.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\f4ed75bc4c6a25161dae94bf719461d3\transformed\jetified-threetenabp-1.1.1\AndroidManifest.xml:7:5-20
+MERGED from [com.agrawalsuneet.androidlibs:dotsloader:1.4] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\c35d6f694b81a82523a99565392eccea\transformed\jetified-dotsloader-1.4\AndroidManifest.xml:11:5-14:19
+MERGED from [com.agrawalsuneet.androidlibs:dotsloader:1.4] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\c35d6f694b81a82523a99565392eccea\transformed\jetified-dotsloader-1.4\AndroidManifest.xml:11:5-14:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\08ac089c608606ef2b8660bd2fc729fe\transformed\versionedparcelable-1.1.0-alpha01\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\08ac089c608606ef2b8660bd2fc729fe\transformed\versionedparcelable-1.1.0-alpha01\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha02] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e0ccd322de6cd44b441d2b0156fffcd5\transformed\core-1.1.0-alpha02\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:9:9-66
+activity#com.app.sport.ui.competition_detail.favourite.FavouriteActivity
+ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:17:13-78
+activity#com.app.sport.SplashScreenActivity
+ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:19:9-32:20
+	android:launchMode
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:22:13-43
+	android:exported
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:20:13-49
+meta-data#android.app.lib_name
+ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:23:13-25:36
+	android:value
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:25:17-33
+	android:name
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:24:17-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.app.sport.ui.team_detail.TeamDetailActivity
+ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:33:9-42:20
+	android:parentActivityName
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:37:13-97
+	android:label
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:35:13-41
+	android:launchMode
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:36:13-43
+	android:theme
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:34:13-75
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:39:13-41:91
+	android:value
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:41:17-88
+	android:name
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:40:17-63
+activity#com.app.sport.ui.competition_detail.CompetitionActivity
+ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:43:9-48:68
+	android:label
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:46:13-45
+	android:launchMode
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:47:13-43
+	android:exported
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:44:13-83
+activity#com.app.sport.ui.match_detail.MatchDetailActivity
+ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:49:9-58:20
+	android:parentActivityName
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:53:13-97
+	android:label
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:51:13-42
+	android:launchMode
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:52:13-43
+	android:theme
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:54:13-56
+	android:name
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml:50:13-77
+uses-sdk
+INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.0.4] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\345a549c4c101f2e23edcc0451eb1537\transformed\databinding-adapters-7.0.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.0.4] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\345a549c4c101f2e23edcc0451eb1537\transformed\databinding-adapters-7.0.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.4] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\ec551c5ca25e3a0519b2b29b043dc8c4\transformed\databinding-runtime-7.0.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.4] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\ec551c5ca25e3a0519b2b29b043dc8c4\transformed\databinding-runtime-7.0.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e486ff3094d66790f64b7eb481f3c5c5\transformed\constraintlayout-2.0.0-alpha2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e486ff3094d66790f64b7eb481f3c5c5\transformed\constraintlayout-2.0.0-alpha2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0-alpha02] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\dacd57114d42c95c4a2512b560f1f3d2\transformed\material-1.1.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha02] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\dacd57114d42c95c4a2512b560f1f3d2\transformed\material-1.1.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [com.mikepenz:aboutlibraries:6.2.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\900a71eb9b0fa3f565ddf5a2e360a4ba\transformed\jetified-aboutlibraries-6.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:aboutlibraries:6.2.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\900a71eb9b0fa3f565ddf5a2e360a4ba\transformed\jetified-aboutlibraries-6.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:iconics-core:3.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\b7fe116befccc4313a1181ecf362de63\transformed\jetified-iconics-core-3.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:iconics-core:3.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\b7fe116befccc4313a1181ecf362de63\transformed\jetified-iconics-core-3.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:fastadapter:3.3.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\315fb2373e1382c0ffe973c7aa6e06a8\transformed\jetified-fastadapter-3.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:fastadapter:3.3.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\315fb2373e1382c0ffe973c7aa6e06a8\transformed\jetified-fastadapter-3.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\daf1f501b42855376f7c86dda66c8e68\transformed\appcompat-1.1.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\daf1f501b42855376f7c86dda66c8e68\transformed\appcompat-1.1.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\50b0fbbed4ff729ccecfdb1094627529\transformed\recyclerview-1.1.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\50b0fbbed4ff729ccecfdb1094627529\transformed\recyclerview-1.1.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\d9826e1edad72234a99f899939862bc6\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\d9826e1edad72234a99f899939862bc6\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\435a1c76712939edd003e3a27bf5d672\transformed\room-runtime-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\435a1c76712939edd003e3a27bf5d672\transformed\room-runtime-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9a30dce3ca72f4d3413fd432a7b6d80c\transformed\lifecycle-extensions-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9a30dce3ca72f4d3413fd432a7b6d80c\transformed\lifecycle-extensions-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e8e726439966da57e6cd527cbb687eaa\transformed\fragment-1.1.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e8e726439966da57e6cd527cbb687eaa\transformed\fragment-1.1.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e685e2edcc38cdf955ea991fa4933906\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e685e2edcc38cdf955ea991fa4933906\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\3cafa57b834b862c77bea28926d4f73e\transformed\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\3cafa57b834b862c77bea28926d4f73e\transformed\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\667b76da0e17bfba3a6659261f812f56\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\667b76da0e17bfba3a6659261f812f56\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9eb61f6dd3ba18dee2ddc528eb997096\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9eb61f6dd3ba18dee2ddc528eb997096\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\ce5020b59d855996fa79f7a986c83c32\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\ce5020b59d855996fa79f7a986c83c32\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\77764d2be8bb9fe5e47563e5419262c3\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\77764d2be8bb9fe5e47563e5419262c3\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\6d39f8b32484a0b0c0b92aaeca9da413\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\6d39f8b32484a0b0c0b92aaeca9da413\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\301e0593b07215b1102edadc4446728b\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\301e0593b07215b1102edadc4446728b\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\b214d59130c81f1882c141765eeace72\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\b214d59130c81f1882c141765eeace72\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\cdd5e0e1ae2348000977650d57756607\transformed\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\cdd5e0e1ae2348000977650d57756607\transformed\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\a05d3c9caf2eaffe209ac6330bebc202\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\a05d3c9caf2eaffe209ac6330bebc202\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\43744beb3c94df79c873e5b24381f7cd\transformed\jetified-activity-1.0.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\43744beb3c94df79c873e5b24381f7cd\transformed\jetified-activity-1.0.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\55582f09a9a6b39d79903db95af4aeea\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\55582f09a9a6b39d79903db95af4aeea\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\5632c9705c60e460a8305cb3428a0b6c\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\5632c9705c60e460a8305cb3428a0b6c\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha02] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e0ccd322de6cd44b441d2b0156fffcd5\transformed\core-1.1.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha02] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e0ccd322de6cd44b441d2b0156fffcd5\transformed\core-1.1.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9977748432b3e1c3204d4148348d2328\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9977748432b3e1c3204d4148348d2328\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\b340cb349af4f3f263c708c57f56abbc\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\b340cb349af4f3f263c708c57f56abbc\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\bd65e6c1d5bd4973604f98877467c100\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\bd65e6c1d5bd4973604f98877467c100\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\a1848fa3a5c1a4ae90e876d7081c2bf2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\a1848fa3a5c1a4ae90e876d7081c2bf2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.1.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\f4ed75bc4c6a25161dae94bf719461d3\transformed\jetified-threetenabp-1.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.1.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\f4ed75bc4c6a25161dae94bf719461d3\transformed\jetified-threetenabp-1.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.agrawalsuneet.androidlibs:dotsloader:1.4] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\c35d6f694b81a82523a99565392eccea\transformed\jetified-dotsloader-1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.agrawalsuneet.androidlibs:dotsloader:1.4] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\c35d6f694b81a82523a99565392eccea\transformed\jetified-dotsloader-1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\08ac089c608606ef2b8660bd2fc729fe\transformed\versionedparcelable-1.1.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\08ac089c608606ef2b8660bd2fc729fe\transformed\versionedparcelable-1.1.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.4] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\d0ccdca315f43e2b28d37cc27f4449ce\transformed\jetified-viewbinding-7.0.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.4] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\d0ccdca315f43e2b28d37cc27f4449ce\transformed\jetified-viewbinding-7.0.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e2b5822b3f4a30279b4f670dddb95fbf\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e2b5822b3f4a30279b4f670dddb95fbf\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\28f3da937009cbef33741648fb867e72\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\28f3da937009cbef33741648fb867e72\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\0521870e4becee07ea76493c1b1d854a\transformed\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\0521870e4becee07ea76493c1b1d854a\transformed\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\06f00347069e037876427d0f50bc18af\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\06f00347069e037876427d0f50bc18af\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\6a6e11b9b9712b6dc44191391f917dd8\transformed\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\6a6e11b9b9712b6dc44191391f917dd8\transformed\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\4150a955ca784bb71c28261e89bbe502\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\4150a955ca784bb71c28261e89bbe502\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e13d1cd06afae079f06e3740240a66ef\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\e13d1cd06afae079f06e3740240a66ef\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\4e1e582465c3195ca324de80c58b3e8c\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\4e1e582465c3195ca324de80c58b3e8c\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\47d9af738d25c980e430c43ae47fc614\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\47d9af738d25c980e430c43ae47fc614\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\26ec7dfde7fd7dc5c1bd021bec25dcc1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\26ec7dfde7fd7dc5c1bd021bec25dcc1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\2f2c1504a876bb7f4a6533b373e175fa\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\2f2c1504a876bb7f4a6533b373e175fa\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\55c377d2d09c2a1cad00cd1fef062128\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\55c377d2d09c2a1cad00cd1fef062128\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ali Hazrati\Desktop\SportScoreTrackerApp\app\src\main\AndroidManifest.xml
+activity#com.mikepenz.aboutlibraries.ui.LibsActivity
+ADDED from [com.mikepenz:aboutlibraries:6.2.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\900a71eb9b0fa3f565ddf5a2e360a4ba\transformed\jetified-aboutlibraries-6.2.0\AndroidManifest.xml:12:9-80
+	android:name
+		ADDED from [com.mikepenz:aboutlibraries:6.2.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\900a71eb9b0fa3f565ddf5a2e360a4ba\transformed\jetified-aboutlibraries-6.2.0\AndroidManifest.xml:12:19-77
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\435a1c76712939edd003e3a27bf5d672\transformed\room-runtime-2.2.1\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\435a1c76712939edd003e3a27bf5d672\transformed\room-runtime-2.2.1\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.1] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\435a1c76712939edd003e3a27bf5d672\transformed\room-runtime-2.2.1\AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9977748432b3e1c3204d4148348d2328\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9977748432b3e1c3204d4148348d2328\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9977748432b3e1c3204d4148348d2328\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9977748432b3e1c3204d4148348d2328\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\9977748432b3e1c3204d4148348d2328\transformed\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\a1848fa3a5c1a4ae90e876d7081c2bf2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\a1848fa3a5c1a4ae90e876d7081c2bf2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\a1848fa3a5c1a4ae90e876d7081c2bf2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ali Hazrati\.gradle\caches\transforms-3\a1848fa3a5c1a4ae90e876d7081c2bf2\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
