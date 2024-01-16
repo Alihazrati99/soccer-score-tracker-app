@@ -24,7 +24,7 @@ https://github.com/Alihazrati99/soccer-score-tracker-app/assets/156400087/5f8d1c
 To use the app, follow these steps:
 
 ```bash
-git clone https://github.com/your-username/soccer-score-tracker.git
+git clone https://github.com/Alihazrati99/soccer-score-tracker.git
 
 Open the project in Android Studio.
 
